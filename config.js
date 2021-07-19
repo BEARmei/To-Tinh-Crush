@@ -1,19 +1,20 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
+    introTitle: 'Hê luu cậu!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    Mà sao cậu cứ đi nhầm đường
+    Lạc vào tim tớ lẻ loi
+    Đằng sau chữ yêu đây là thương
+    Tớ có điều muốn hỏi cậu nhớ là trả lời thật lòng nhaaa `,
+    btnIntro: 'okii',
+    title: 'Cậu thích tớ có phải ko nào ._.'',
+    desc: 'Nếu cậu ko trả lời mà thoát ra tức là muốn làm ny tớ rùi đó nha :)),
+    btnYes: 'Cậu mơ à??? =))',
+    btnNo: 'Yêu ơi là yêu :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại yêu tớ :33 ',
+    btnReply: 'Gửi cho tớ <3',
+    reply: 'Vì nhìn cậu dễ thương vl ý :333 ',
+    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều 😘😘',
+    messDesc: 'Tối nay 7h tớ đón đi chơi nhé công chúa. Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo',
+    btnAccept: 'okii luôn :<<'
+    messLink: 'http://mot đieu muon noi :3' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
